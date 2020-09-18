@@ -59,7 +59,7 @@
 #### Table of Contents
 * [Week 1]
     * Lesson Topic: Computer Vision, Edge Detection, Padding, Strided Convolutions, Convolutions Over Volume, One Layer of a CNN, Pooling Layers, CNN Example
-    * Quiz: The basics of ConvNets
+    * Quiz: The basics of ConveNts
     * Assignment: Convolutional Model: step by step, Convolutional model: application
 * [Week 2]
     * Lesson Topic: Classic Networks, ResNets, 1x1 Convolution, Inception Network, Using Open Source Implementation, Transfer Learning, Data Augmentation
